@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ultronai Core
+Comment=Ultronai P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Ultronai peer-to-peer Netzwerk
+Comment[fr]=Ultronai, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Ultronai, eşten eşe kriptografik sanal para birimi
+Exec=ultronai-qt %u
+Terminal=false
+Type=Application
+Icon=ultronai128
+MimeType=x-scheme-handler/ultronai;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/ultronai-qt usr/bin
+share/pixmaps/ultronai32.xpm usr/share/pixmaps
+share/pixmaps/ultronai16.xpm usr/share/pixmaps
+share/pixmaps/ultronai128.png usr/share/pixmaps
+debian/ultronai-qt.desktop usr/share/applications
+debian/ultronai-qt.protocol usr/share/kde4/services/
